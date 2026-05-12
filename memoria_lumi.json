@@ -1,0 +1,296 @@
+{
+  "nombre": "Luis",
+  "historial_intenciones": [
+    "saludo",
+    "consejos",
+    "consejos",
+    "saludo",
+    "consejos",
+    "saludo",
+    "como_estas",
+    "soledad",
+    "como_estas",
+    "no_entendido"
+  ],
+  "ultima_conversacion": "2026-03-27T08:54:33.583721",
+  "sesiones": 63,
+  "emociones_registradas": [
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "autoestima",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "autoestima",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "autoestima",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "autoestima",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "soledad",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "autoestima",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "autoestima",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "felicidad",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "autoestima",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-12"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "autoestima",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "soledad",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-13"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-20"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-20"
+    },
+    {
+      "emocion": "felicidad",
+      "fecha": "2026-03-20"
+    },
+    {
+      "emocion": "felicidad",
+      "fecha": "2026-03-20"
+    },
+    {
+      "emocion": "felicidad",
+      "fecha": "2026-03-20"
+    },
+    {
+      "emocion": "felicidad",
+      "fecha": "2026-03-20"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-26"
+    },
+    {
+      "emocion": "tristeza",
+      "fecha": "2026-03-26"
+    },
+    {
+      "emocion": "soledad",
+      "fecha": "2026-03-27"
+    }
+  ],
+  "temas_hablados": [
+    "cuerpo_salud",
+    "relaciones",
+    "dormir"
+  ],
+  "preguntas_hechas": [],
+  "palabras_aclaradas": [
+    "falso"
+  ]
+}
