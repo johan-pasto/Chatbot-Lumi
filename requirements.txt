@@ -5,7 +5,6 @@ supabase
 python-dotenv
 groq
 scikit-learn
-sentence-transformers
-torch
+
 numpy
 cryptography
